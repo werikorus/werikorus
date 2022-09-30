@@ -21,6 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=werikorus&show_icons=true&locale=en&layout=compact" alt="werikorus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=werikorus&show_icons=true&locale=en" alt="werikorus" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=werikorus" alt="leonamoliveira" /></a> </p>
