@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=werikorus" alt="leonamoliveira" /></a> </p>
+
 <h1 align="center">Hi 👋, I'm Werik Santos</h1>
 <h3 align="center">A man who wants to change the world by code and music.</h3>
 
