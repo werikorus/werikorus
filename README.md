@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Werik Santos</h1>
 <h3 align="center">A man who wants to change the world by code and music.</h3>
 
-- 🔭 I’m currently working on **Softplan**
+- 🔭 I’m currently working at **Softplan**
 
 - 📫 How to reach me **werik.msti@gmail.com**
 
