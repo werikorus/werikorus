@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Softplan**
 
-- 📫 How to reach me **werik.msti@gmail.com**
+- 📫 How to reach me **weriksantos.fotografia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
